@@ -1,0 +1,5 @@
+{
+  "venv": "U:/pts/venv/2.7.14",
+  "maya": "C:/Program Files/Autodesk/Maya{MAYA_VERSION}/bin/maya.exe",
+  "nuke": "C:/Program Files/Nuke{NUKE_VERSION}"
+}
